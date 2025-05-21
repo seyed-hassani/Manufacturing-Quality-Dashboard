@@ -2,7 +2,7 @@
 
 A comprehensive smart factory monitoring solution that provides real-time insights into production quality metrics. Built with Python for data simulation, SQLite for efficient data storage, and Power BI for interactive business intelligence dashboards.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard.jpg)
 
 ## 🎯 Overview
 
